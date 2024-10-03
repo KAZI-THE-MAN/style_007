@@ -1,0 +1,27 @@
+h2{
+    font-size: 30px;
+    text-decoration: none;
+    color: blue;
+}
+.blog{
+    background-color: aqua;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin: 5px;
+    padding:5px;
+}
+.head{
+    background-size: cover;
+    width: 2000px;
+    height: 1000px;
+    background-image: url(car.jpg);
+}
+#hp{
+    color: black;
+    text-align: center;
+    font-size: 100px;
+}
+.spanedblock{
+    color: brown;
+    border: red solid 5px;
+}
